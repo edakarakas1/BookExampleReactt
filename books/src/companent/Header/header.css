@@ -1,0 +1,17 @@
+a.header-text {
+    color: azure;
+    font-size: large;
+    font-weight: bold;
+}
+
+a.header-button {
+    float: right;
+    color: white;
+    font-size: large;
+    padding-right: 18px;
+    padding-left: 18px;
+}
+
+a.header-button:hover {
+    background-color: #3e9de6;
+}
